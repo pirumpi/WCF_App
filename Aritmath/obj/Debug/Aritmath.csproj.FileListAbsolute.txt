@@ -5,6 +5,5 @@ C:\Users\Carlos\documents\visual studio 2013\Projects\Aritmath\Aritmath\bin\Debu
 C:\Users\Carlos\documents\visual studio 2013\Projects\Aritmath\Aritmath\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Carlos\documents\visual studio 2013\Projects\Aritmath\Aritmath\bin\Debug\EntityFramework.xml
 C:\Users\Carlos\documents\visual studio 2013\Projects\Aritmath\Aritmath\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Carlos\documents\visual studio 2013\Projects\Aritmath\Aritmath\obj\Debug\Aritmath.csprojResolveAssemblyReference.cache
 C:\Users\Carlos\documents\visual studio 2013\Projects\Aritmath\Aritmath\obj\Debug\Aritmath.dll
 C:\Users\Carlos\documents\visual studio 2013\Projects\Aritmath\Aritmath\obj\Debug\Aritmath.pdb
